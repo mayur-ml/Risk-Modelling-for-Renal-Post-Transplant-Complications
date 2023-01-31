@@ -40,11 +40,26 @@ Renal transplantation is a common procedure for patients with end-stage renal di
  
  * Brier score :-  Brier score calculates the mean squared error between predicted probabilities and the observed values (actuals). The value of the Brier score is always between 0.0 and 1.0, where a model with perfect skill has a score of 0.0 and the worst has a score of 1.0.
    
+<br>
+<br>
+<div class="text-center">
+  <img src="https://user-images.githubusercontent.com/108168115/215897245-6b9aab03-be09-4dc6-a185-c86d5584ff68.png" class="img-fluid" alt="" />
+</div>
 
-![image](https://user-images.githubusercontent.com/108168115/215897245-6b9aab03-be09-4dc6-a185-c86d5584ff68.png)
+
+### EDA - Exploratory Data Analysis
+
+* Platelets, Hemoglobin level and White blood cell counts are basic elements of immune system in our health.
+
+* This case clearly meant that, however if elements of immune system is decrease then most of the renal complications will occur in future. Which reflect to graft survival time and graft survival indicator at the end
+
+* Platelets, Hemoglobin level and White blood cell counts are directly proportional to each other. If this elements increase then graft survival time is also increased.
+
+### Post transplantcomplications 
+
+* Non adherence, Urological complications, Vascular & Cardiovascular complications, Diabetes, Hyper tension, Acute rejection, Chronic rejection, Gastro intestine
 
 
-   
-   
-   
-   
+
+
+### Note:- 
