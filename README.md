@@ -18,7 +18,7 @@
 
 * __Python Version:__ 3.9
 
-* __Packages:__ pandas, numpy, matplotlib, seaborn, sklearn.
+* __Packages:__ pandas, numpy, matplotlib, seaborn, sklearn ,scikit-survival.
 
 * __Requirements:__  
   
