@@ -20,8 +20,19 @@
 
 * __Packages:__ pandas, numpy, matplotlib, seaborn, sklearn.
 
-* __Requirements:__  `!pip install pandas`
-`!pip install numpy` `!pip install matplotlib` `!pip install seaborn` `!pip install scikit-learn`
+* __Requirements:__  
+  
+  * `!pip install pandas`
+  
+  * `!pip install numpy`
+
+  * `!pip install matplotlib` 
+
+  * `!pip install seaborn`
+
+  * `!pip install scikit-learn`
+
+  * `#pip install scikit-survival`
 
 
 ### Dataset :
